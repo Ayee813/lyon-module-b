@@ -1,4 +1,5 @@
-const companies = require('./dataBase/companies')
+
+const companies = require('./db/demo_data.js')
 const { json } = require('body-parser');
 const express = require('express')
 const cors = require('cors')
