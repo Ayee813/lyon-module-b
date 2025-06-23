@@ -15,7 +15,7 @@ const props = defineProps({
     <div class="wrapper" v-if="show">
         <form>
 
-            <fieldset>
+f            <fieldset>
                 <h1>Add New A Company</h1>
                 <label for="comapanyName">company name</label>
                 <input type="text" id="comapanyName">

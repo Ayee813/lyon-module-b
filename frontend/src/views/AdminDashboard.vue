@@ -16,7 +16,7 @@ const logOut = () => {
     <div>
         <Edit />
         <SideMenu />
-        <Company />
+        <!-- <Company /> -->
     </div>
 </template>
 
